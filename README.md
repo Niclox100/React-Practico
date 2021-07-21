@@ -1,1 +1,1 @@
-Curso React-Practico de Platzi. Proyecto: Platzi-video
+Curso React-Practico de Platzi. Proyecto: Platzi-video.
